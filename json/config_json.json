@@ -1,0 +1,82 @@
+{
+  "ventana": {
+    "ancho": 1200,
+    "alto": 700,
+    "titulo": "Pasapalabra",
+    "icono": "png/icono_pasapalabra.png"
+  },
+  "fuentes": {
+    "titulo": {
+      "nombre": "Times New Roman",
+      "tamano": 60
+    },
+    "boton": {
+      "nombre": "Times New Roman",
+      "tamano": 40
+    },
+    "pequena": {
+      "nombre": "Times New Roman",
+      "tamano": 24
+    },
+    "letra": {
+      "nombre": "arial",
+      "tamano": 20,
+      "bold": true
+    },
+    "timer": {
+      "nombre": "arial",
+      "tamano": 30
+    },
+    "default": {
+      "nombre": null,
+      "tamano": 36
+    }
+  },
+  "slider": {
+    "rect": [400, 300, 400, 8],
+    "selector_size": [20, 30],
+    "color_slider": [180, 180, 180],
+    "color_selector": [50, 150, 250]
+  },
+  "imagenes_resultado": {
+    "normal": {
+      "correcta": "png/Verde_normal.png",
+      "incorrecta": "png/Rojo_normal.png",
+      "pasada": "png/Amarillo_normal.png"
+    },
+    "daltonico": {
+      "correcta": "png/Verde_modificado.png",
+      "incorrecta": "png/Rojo_modificado.png",
+      "pasada": "png/Amarillo_modificado.png"
+    }
+  },
+  "colores": {
+    "normal": {
+      "BLANCO": [255, 255, 255],
+      "AZUL": [30, 60, 150],
+      "GRIS": [220, 220, 220],
+      "GRIS_CLARO": [240, 240, 240],
+      "NEGRO": [0, 0, 0],
+      "AMARILLO": [255, 230, 0],
+      "VERDE": [0, 150, 0],
+      "ROJO": [200, 0, 0],
+      "NARANJA": [255, 140, 0]
+    },
+    "daltonico": {
+      "BLANCO": [255, 255, 255],
+      "AZUL": [12, 123, 220],
+      "GRIS": [220, 220, 220],
+      "GRIS_CLARO": [240, 240, 240],
+      "NEGRO": [0, 0, 0],
+      "AMARILLO": [254, 254, 98],
+      "VERDE": [64, 176, 166],
+      "ROJO": [220, 50, 32],
+      "NARANJA": [212, 17, 89]
+    }
+  },
+  "estado_inicial": {
+    "modo": "normal",
+    "volumen": 1,
+    "brillo": 1.0
+  }
+}

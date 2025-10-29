@@ -1,0 +1,48 @@
+{
+  "mar": [
+    {
+      "aciertos": 13,
+      "errores": 7,
+      "tiempo": 120,
+      "puntaje": 260
+    },
+    {
+      "aciertos": 20,
+      "errores": 6,
+      "tiempo": 97,
+      "puntaje": 200
+    },
+    {
+      "aciertos": 15,
+      "errores": 11,
+      "tiempo": 112,
+      "puntaje": 150
+    }
+  ],
+  "iri": [
+    {
+      "aciertos": 9,
+      "errores": 17,
+      "tiempo": 39,
+      "puntaje": 90
+    },
+    {
+      "aciertos": 1,
+      "errores": 25,
+      "tiempo": 10,
+      "puntaje": 10
+    },
+    {
+      "aciertos": 2,
+      "errores": 24,
+      "tiempo": 19,
+      "puntaje": 20
+    },
+    {
+      "aciertos": 1,
+      "errores": 25,
+      "tiempo": 23,
+      "puntaje": 10
+    }
+  ]
+}

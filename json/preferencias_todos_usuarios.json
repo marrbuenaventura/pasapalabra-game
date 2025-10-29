@@ -1,0 +1,25 @@
+{
+  "mar": {
+    "modo": "normal",
+    "volumen": 1.0,
+    "brillo": 1.0,
+    "primera_vez": false,
+    "partidas_jugadas": 3,
+    "fecha_ultima_partida": "2025-10-29T12:31:57.815637"
+  },
+  "invitado": {
+    "volumen": 0.085,
+    "brillo": 0.8425,
+    "modo_accesibilidad": "neurotipico",
+    "dificultad_preferida": "facil",
+    "tiempo_partida": 120
+  },
+  "iri": {
+    "modo": "normal",
+    "volumen": 1.0,
+    "brillo": 1.0,
+    "primera_vez": false,
+    "partidas_jugadas": 4,
+    "fecha_ultima_partida": "2025-07-14T02:20:30.657395"
+  }
+}
